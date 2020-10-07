@@ -22,6 +22,6 @@ A LEARNER CANNOT CONTINUE ONTO THE 'NEXT' LESSON UNTIL WHEN THEY'VE PASSED THE C
 
 What's really interesting about this course...is it 'forces' you to do it 'hands on'; so, it's not a case of you can just merely sit back and watch a few videos...then, when you get to the end of seeing all videos -(whether you are actually at the screen/or, asleep)-; then, you can 'magically' go ahead and claim a certificate...whether you understood/or, not?!
 
-Instead, here you have to prove...by reading/watching vidos, first; then, completing/and, handing in each assignment lesson to be marked by an online tutor...assignment feedback is sent through email whether you either passed/or, failed.
+Instead, here you have to prove...by reading/watching vidos, first; then, completing/and, handing in each homework assignment lesson to be marked by an online tutor...assignment feedback is sent through email whether you either passed/or, failed.
 
-**NOTE**: One is NOT allowed to continue onto the 'next' part of the lesson...until you have passed what is the current assignment 'test'; which, in turn, means you have to 'wait' for the tutor feedback...before being allowed to move on. 
+**NOTE**: One is NOT allowed to continue onto the 'next' part of the lesson...until you have passed what is the current assignment 'test'; which, in turn, means you have to 'wait' for the tutor feedback...before being allowed to move on. The tutor response is, usually, pretty fast...meaning, within a single day.
