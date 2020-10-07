@@ -8,7 +8,7 @@ Mon 5th Oct 2020
 
 I brought from Pirple.com at a cost of: $49.00 USD/£39.66 GBP, a 14 x Course Programming Bundle - Lifetime Access - All Certificates Included
 
-- PythonIsEasy
+- PythonIsEasy (Python 3.x)
 - Frontend-Fundaments (HTML/CSS)
 - Etc.
 
