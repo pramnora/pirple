@@ -2,6 +2,7 @@
           COURSE: PythonIsEasy, (www.pirple.com)
          PROGRAM: Lesson 1/Assignment: Variables/Comments
         LANGUAGE: Python/Version: 3.8.6
+          EDITOR: Python, running in DOS environment
 ---------------------------------------------------------
         COMPUTER: Home based Desktop PC
 OPERATING SYSTEM: Windows 10 Professional
